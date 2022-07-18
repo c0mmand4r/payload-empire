@@ -41,7 +41,7 @@ def banner():
     """
   :: Payload-Empire (Payload maker with metasploit) 
   :: Coded by Sam01  
-  :: Github & Twitter & Instagram: C0mmand4r
+  :: Github & Twitter & Instagram: C0mmand5r
     """)
     
     print(Fore.LIGHTYELLOW_EX + """
